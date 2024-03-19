@@ -1,2 +1,2 @@
-# Python-Project
+# Email VALIDATION Python-Project
 I developed email validation using string function in python.
